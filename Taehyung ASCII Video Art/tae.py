@@ -1,3 +1,8 @@
+/*NOTE
+
+i just got this from ms. Shraa. u can see it on her github acc. Thank you mis Shraaaa
+
+
 
 import time
 import tkinter as tk
